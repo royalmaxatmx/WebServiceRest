@@ -4,7 +4,7 @@ public class Article {
 	private int idArticle;
 	private String description;
 	private String Brand;
-	private double price;
+	private double price; 
 	
 	public Article() {
 		this(0, "unknown", "unknown", 0);
